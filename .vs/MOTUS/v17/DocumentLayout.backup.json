@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\MOTUS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5C752D-8A6D-4085-AB61-E493044024E6}|MOTUS\\MOTUS.csproj|c:\\users\\dell\\desktop\\ipi\\.net\\motus\\motus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE5C752D-8A6D-4085-AB61-E493044024E6}|MOTUS\\MOTUS.csproj|solutionrelative:motus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE5C752D-8A6D-4085-AB61-E493044024E6}|MOTUS\\MOTUS.csproj|c:\\users\\dell\\desktop\\ipi\\.net\\motus\\motus\\mot.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BE5C752D-8A6D-4085-AB61-E493044024E6}|MOTUS\\MOTUS.csproj|solutionrelative:motus\\mot.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\MOTUS\\MOTUS\\Program.cs",
+              "RelativeDocumentMoniker": "MOTUS\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\MOTUS\\MOTUS\\Program.cs",
+              "RelativeToolTip": "MOTUS\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwIAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:20:59.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mot.txt",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\MOTUS\\MOTUS\\mot.txt",
+              "RelativeDocumentMoniker": "MOTUS\\mot.txt",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\IPI\\.NET\\MOTUS\\MOTUS\\mot.txt",
+              "RelativeToolTip": "MOTUS\\mot.txt",
+              "ViewState": "AgIAACpWAwAAAAAAAAAuwDxWAwADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-06T12:31:06.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
